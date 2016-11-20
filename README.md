@@ -25,7 +25,7 @@ adb shell am instrument -w com.calculator.test/com.custom.android.junitreport.JU
 -----------------------------------------------------------------------------------------------------
 
 
-It will create a Junit xml report of the junit3 tests inside robot-calc/src/com/calculator/test/MainActivityTest.java
+It will create a Junit xml report of the junit3 tests of "robot-calc/src/com/calculator/test/MainActivityTest.java"
  inside "/sdcard/testReports" folder of your android device .
 
 
