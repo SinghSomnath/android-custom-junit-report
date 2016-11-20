@@ -5,7 +5,7 @@ Instrcutions to use:
 
 1> Run builld.xml inside with "ant clean jar" to create runner jar (which is already added)  inside the "build" folder .
 2> Place that jar inside "robot-calc/libs" folder .
-3> Insdie "robot-calc/AndroidManifest.xml"  change the below line 
+3> Inside "robot-calc/AndroidManifest.xml"  change the below line 
 
  <instrumentation
         android:name="android.test.InstrumentationTestRunner"
